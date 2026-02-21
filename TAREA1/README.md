@@ -45,7 +45,7 @@ PROYECTO/
 
 Ejecución
 
-Bash python main.py
+python main.py
 
 Se mostrará el
 menú
