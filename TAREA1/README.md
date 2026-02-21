@@ -1,14 +1,14 @@
 
-# HOMEWOUK1
-### Gerardo Josue Toledo Dondiego | 9490-24-6844 | Seccion B
+# TAREA1
+## Gerardo Josue Toledo Dondiego | 9490-24-6844 | Seccion B
 ---
-# Lista Doblemente Enlazada en Python
+### Lista Doblemente Enlazada en Python
 
 Sistema interactivo de lista doblemente enlazada con interfaz de línea de comandos (CLI)
 y visualización gráfica mediante Graphviz.
 
 
-## Descripción
+### Descripción
 
 Este proyecto implementa una lista doblemente enlazada donde cada nodo almacena
 información de un estudiante (nombre, apellido y carnet) e ncluye un menú interactivo
@@ -17,7 +17,7 @@ modificación.
 
 ---
 
-## Estructura del Proyecto
+### Estructura del Proyecto
 PROYECTO/
 
 ── nodo.py | los datos del estudiante
@@ -33,7 +33,7 @@ PROYECTO/
 
 ---
 
-## Requisitos
+### Requisitos
 
 | Software   | Versión          | Instalación                                                       |
 |------------|------------------|-------------------------------------------------------------------|
@@ -43,38 +43,73 @@ PROYECTO/
 
 ---
 
-## 🚀 Instalación
-
-### 1. Clonar el repositorio
-
-```bash
-git clone https://github.com/tu-usuario/lista-doblemente-enlazada.git
-cd lista-doblemente-enlazada
-
 Ejecución
-Bash
 
-python main.py
-Se mostrará el siguiente menú:
+Bash python main.py
 
-text
+Se mostrará el
+menú
 
-╔══════════════════════════════╗
-║          OPCIONES            ║
-╠══════════════════════════════╣
-║  1. Insertar al principio    ║
-║  2. Insertar al final        ║
-║  3. Eliminar por carnet      ║
-║  4. Buscar por carnet        ║
-║  5. Mostrar lista            ║
-║  6. Generar imagen           ║
-║  0. Salir                    ║
-╚══════════════════════════════╝
+---
+# Ejemplo de Uso
+## Insertar al principio
+
+Opción: 1
+  Nombre   : Carlos
+  Apellido : López
+  Carnet   : 2024001
+
+[Carlos López | 2024001] insertado al principio.
+Imagen guardada → imagenes/01_insertar_principio.png
+
+---
+## Insertar al final
+
+Opción: 2
+  Nombre   : María
+  Apellido : García
+  Carnet   : 2024002
+
+[María García | 2024002] insertado al final.
+Imagen guardada → imagenes/02_insertar_final.png
+
+---
+## Mostrar lista
+
+Opción: 5
+
+[Carlos López | 2024001] <-> [María García | 2024002]
+None ← cabeza | cola → None  (2 nodo/s)
+   
+---
+## Buscar por carnet
+
+Opción: 4
+  Carnet a buscar: 2024001
+
+Encontrado en posición 1: [Carlos López | 2024001]
+
+## Eliminar por carnet
+
+Opción: 3
+  Carnet a eliminar: 2024001
+
+Nodo con carnet '2024001' eliminado.
+Imagen guardada → imagenes/03_eliminar.png
+
+---
 
 Color	Significado
+
 🟢 Verde	Nodo cabeza
+
 🟡 Naranja	Nodo intermedio
+
 🔵 Azul	Nodo cola
+
 🟣 Morado	Nodo único
+
 🔴 Rojo	NULL (extremos)
+
+
 
