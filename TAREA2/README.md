@@ -1,3 +1,6 @@
+# TAREA1
+# Gerardo Josue Toledo Dondiego | 9490-24-6844 | Seccion B
+
 # Programa Interactivo de Operaciones Matemáticas Recursivas
 
 Programa desarrollado en Python que implementa diversas operaciones matemáticas
