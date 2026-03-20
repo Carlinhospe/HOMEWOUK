@@ -10,7 +10,7 @@
 ## Descripcion
 
 Programa interactivo en Python que permite crear, manipular y visualizar
-un arbol Binario de Busqueda (ABB) a traves de una interfaz de linea de
+un arbol Binario de Busqueda a traves de una interfaz de linea de
 comandos, genera automaticamente la representacion grafica del arbol
 usando Graphviz.
 
