@@ -1,8 +1,8 @@
 # Árbol AVL 
 
-Programa de línea de comandos (CLI) para crear, manipular y visualizar
-un Árbol AVL. Implementado en Python puro, sin dependencias externas
-salvo Graphviz para generar imágenes PNG.
+| Nombre | Carnet | 
+|--------|--------|
+| Gerardo Josue Toledo Dondiego | 9490_24_6844 |
 
 
 
@@ -50,9 +50,9 @@ esto en pantalla:
 
 ---
 
-## Opciones explicadas
+# Opciones explicadas
 
-### [1] Insertar
+### 1 Insertar
 Ingresa uno o varios números separados por coma, 
 el árbol se balancea automáticamente y se actualiza el PNG.
 
@@ -63,7 +63,7 @@ el árbol se balancea automáticamente y se actualiza el PNG.
       15 insertado.
       
 
-### [2] Buscar
+### 2 Buscar
 Indica si el número existe o no en el árbol.
 
       Número a buscar: 20
@@ -72,14 +72,14 @@ Indica si el número existe o no en el árbol.
       Número a buscar: 99
       [✗] 99 NO está en el árbol.
 
-### [3] Eliminar
+### 3 Eliminar
 Elimina uno o varios números separados por coma.
 
       Número(s) separados por coma: 20
       [✓] 20 eliminado.
       
 
-### [4] Cargar CSV
+### 4 Cargar CSV
 Muestra los CSVs disponibles y carga el que se elija.
 
 
@@ -91,14 +91,14 @@ Muestra los CSVs disponibles y carga el que se elija.
       Insertados: 15  |  Errores: 0
      
 
-### [6] Info árbol
+### 6 Info árbol
 Muestra número de nodos, altura y recorrido in-orden.
 
       Nodos  : 7
       Altura : 3
       Inorden: [3, 5, 7, 10, 15, 20, 30]
 
-### [7] Limpiar árbol
+### 7 Limpiar árbol
 Vacía el árbol por completo (pide confirmación antes de hacerlo).
 
       ¿Seguro? (s/n): s
@@ -108,7 +108,7 @@ Vacía el árbol por completo (pide confirmación antes de hacerlo).
 
 ### Colores de los nodos
 
-| Color     | Factor de balance | Significado                             |
+| Color     | Factor de balance |                                         |
 |-----------|-------------------|-----------------------------------------|
 | 🟢 Verde  | FB = 0            | Perfectamente balanceado                |
 | 🟠 Naranja| FB = ±1           | Levemente inclinado                     |
