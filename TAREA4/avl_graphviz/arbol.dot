@@ -1,0 +1,7 @@
+digraph ArbolAVL {
+    graph [label="Árbol AVL" fontsize=18 fontname="Helvetica" bgcolor="#1e1e2e"];
+    node  [shape=circle style=filled fontcolor=white fontname="Helvetica" fontsize=13];
+    edge  [color="#aaaaaa" penwidth=1.5];
+
+ n3 [label="3\nH=1  FB=+0" fillcolor="#27AE60"];
+}
