@@ -35,7 +35,7 @@
 esto en pantalla:
 
       ──────────────────────────────────────────────────
-                   ÁRBOL AVL
+                          ÁRBOL AVL
       ──────────────────────────────────────────────────
       Nodos: 0  |  Altura: 0
       ──────────────────────────────────────────────────
@@ -76,7 +76,7 @@ Indica si el número existe o no en el árbol.
 Elimina uno o varios números separados por coma.
 
       Número(s) separados por coma: 20
-      [✓] 20 eliminado.
+      20 eliminado.
       
 
 ### 4 Cargar CSV
