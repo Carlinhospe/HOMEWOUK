@@ -22,11 +22,11 @@
 
 ## Cómo ejecutar
 
-    # Entrar a la carpeta del proyecto
+    Entrar a la carpeta del proyecto
     cd TAREA4
 
-    # Ejecutar
-    python prueba.py
+    Ejecutar
+    python AVLIL.py
 
 ---
 
