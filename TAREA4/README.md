@@ -56,7 +56,7 @@ esto en pantalla:
 Ingresa uno o varios números separados por coma, 
 el árbol se balancea automáticamente y se actualiza el PNG.
 
-      Número(s) separados por coma: 10, 20, 5, 15
+      Número separados por coma: 10, 20, 5, 15
       10 insertado.
       20 insertado.
       5 insertado.
@@ -75,7 +75,7 @@ Indica si el número existe o no en el árbol.
 ### 3 Eliminar
 Elimina uno o varios números separados por coma.
 
-      Número(s) separados por coma: 20
+      Número separados por coma: 20
       20 eliminado.
       
 
@@ -83,7 +83,7 @@ Elimina uno o varios números separados por coma.
 Muestra los CSVs disponibles y carga el que se elija.
 
 
-      CSVs disponibles:
+      CSV disponibles:
 
       Ruta del CSV: mis_datos\datos_mediano.csv
       ¿Limpiar árbol antes? (s/n): s
