@@ -1,0 +1,116 @@
+id_empleado,nombre,apellido,genero,edad,departamento,cargo,tipo_contrato,salario_base,bonificacion,dias_vacaciones,pais,ciudad,anios_experiencia,estado,correo,telefono,fecha_contratacion,ultimo_aumento,evaluacion_desempeno
+17754,Nombre001,Apellido001,Masculino,56,Gerencia,Consultor,medio_tiempo,15669.36,12817.29,14,Guatemala,Ciudad_4,13,contrato_temporal,empleado17754@empresa.com,+502 75609379,2011-05-21,2023-09-01,1.82
+21725,Nombre002,Apellido002,Masculino,52,Auditoría,Supervisor,indefinido,46421.16,8381.96,21,El Salvador,Ciudad_10,1,incapacidad,empleado21725@empresa.com,+502 44152669,2011-04-01,2021-06-01,8.35
+95498,Nombre003,Apellido003,Femenino,33,Logística,Coordinador,tiempo_completo,74962.88,1035.29,29,Costa Rica,Ciudad_16,2,vacaciones,empleado95498@empresa.com,+502 64877191,2011-08-22,2012-08-27,2.62
+85252,Nombre004,Apellido004,Femenino,28,Legal,Supervisor,indefinido,9179.25,14462.17,27,Belice,Ciudad_18,8,vacaciones,empleado85252@empresa.com,+502 25922674,2019-06-06,2021-07-11,2.61
+40437,Nombre005,Apellido005,Masculino,54,Contabilidad,Analista,por_proyecto,38651.3,10786.41,13,El Salvador,Ciudad_18,24,de_baja,empleado40437@empresa.com,+502 43220503,2021-11-11,2022-03-21,5.15
+80143,Nombre006,Apellido006,Masculino,29,Contabilidad,Supervisor,tiempo_completo,21531.3,1009.36,19,Honduras,Ciudad_2,28,contrato_temporal,empleado80143@empresa.com,+502 16533225,2014-03-25,2024-01-16,3.2
+14888,Nombre007,Apellido007,Masculino,22,Contabilidad,Jefe de Área,por_proyecto,21030.44,13745.96,18,El Salvador,Ciudad_11,36,contrato_temporal,empleado14888@empresa.com,+502 53038943,2019-11-05,2021-02-26,3.13
+32946,Nombre008,Apellido008,Femenino,29,Marketing,Asistente,tiempo_completo,45867.3,8875.01,23,Panamá,Ciudad_6,40,incapacidad,empleado32946@empresa.com,+502 84605013,2021-09-10,2022-12-06,5.46
+64773,Nombre009,Apellido009,Femenino,42,Operaciones,Supervisor,medio_tiempo,26091.41,2758.18,17,Panamá,Ciudad_16,15,de_baja,empleado64773@empresa.com,+502 50364158,2018-07-20,2024-06-06,8.72
+33040,Nombre010,Apellido010,Femenino,29,Operaciones,Consultor,medio_tiempo,32908.27,3824.93,10,Belice,Ciudad_3,28,vacaciones,empleado33040@empresa.com,+502 22410307,2020-05-21,2020-09-16,5.82
+14763,Nombre011,Apellido011,Masculino,32,Recursos Humanos,Gerente,medio_tiempo,39913.35,13042.11,10,Guatemala,Ciudad_10,0,de_baja,empleado14763@empresa.com,+502 35504548,2016-01-09,2020-04-01,9.66
+62034,Nombre012,Apellido012,Masculino,27,Operaciones,Gerente,por_proyecto,62714.57,5709.93,17,Panamá,Ciudad_12,19,vacaciones,empleado62034@empresa.com,+502 58270683,2020-09-28,2022-02-06,5.62
+74930,Nombre013,Apellido013,Femenino,51,Ventas,Director,por_proyecto,34872.62,8437.87,7,El Salvador,Ciudad_5,1,vacaciones,empleado74930@empresa.com,+502 84264220,2012-03-18,2022-09-28,9.41
+34420,Nombre014,Apellido014,Masculino,57,Ventas,Director,medio_tiempo,32247.66,12500.44,15,Panamá,Ciudad_18,21,vacaciones,empleado34420@empresa.com,+502 75581613,2019-05-14,2021-01-07,9.7
+47941,Nombre015,Apellido015,Masculino,61,Logística,Jefe de Área,medio_tiempo,58464.14,7324.74,29,Panamá,Ciudad_18,3,contrato_temporal,empleado47941@empresa.com,+502 14539747,2021-01-01,2023-08-02,8.55
+14910,Nombre016,Apellido016,Femenino,24,Tecnología,Gerente,tiempo_completo,57452.06,137.12,16,Belice,Ciudad_15,23,activo,empleado14910@empresa.com,+502 92924441,2011-02-02,2011-03-26,6.74
+11214,Nombre017,Apellido017,Masculino,59,Auditoría,Consultor,indefinido,3912.52,7941.26,8,El Salvador,Ciudad_18,18,activo,empleado11214@empresa.com,+502 77406294,2020-12-10,2021-01-11,8.32
+49110,Nombre018,Apellido018,Masculino,63,Auditoría,Jefe de Área,medio_tiempo,17778.77,7896.84,26,El Salvador,Ciudad_12,17,incapacidad,empleado49110@empresa.com,+502 20605783,2014-01-08,2015-03-22,4.36
+84443,Nombre019,Apellido019,Masculino,45,Marketing,Coordinador,tiempo_completo,10199.54,5688.96,17,El Salvador,Ciudad_16,3,activo,empleado84443@empresa.com,+502 33002714,2022-09-03,2023-05-10,1.74
+89007,Nombre020,Apellido020,Masculino,47,Auditoría,Analista,medio_tiempo,19279.11,13021.75,28,Panamá,Ciudad_19,30,vacaciones,empleado89007@empresa.com,+502 16249441,2017-06-06,2023-10-10,9.32
+24064,Nombre021,Apellido021,Masculino,63,Tecnología,Director,tiempo_completo,77033.13,8805.54,24,Honduras,Ciudad_13,4,vacaciones,empleado24064@empresa.com,+502 31803703,2022-03-07,2023-10-05,6.08
+53914,Nombre022,Apellido022,Femenino,56,Tecnología,Coordinador,por_proyecto,7134.63,6556.32,26,Belice,Ciudad_3,21,contrato_temporal,empleado53914@empresa.com,+502 92391596,2018-09-23,2022-06-12,9.59
+47298,Nombre023,Apellido023,Femenino,45,Legal,Especialista,medio_tiempo,30397.46,14117.14,13,Belice,Ciudad_6,37,incapacidad,empleado47298@empresa.com,+502 21501669,2017-04-27,2017-08-26,7.95
+69552,Nombre024,Apellido024,Masculino,38,Recursos Humanos,Asistente,medio_tiempo,32260.0,11758.35,4,Belice,Ciudad_13,20,vacaciones,empleado69552@empresa.com,+502 24301022,2015-07-12,2023-07-10,1.82
+94058,Nombre025,Apellido025,Masculino,39,Tecnología,Coordinador,medio_tiempo,36185.42,8354.78,16,El Salvador,Ciudad_14,6,activo,empleado94058@empresa.com,+502 22028437,2018-01-27,2021-02-04,4.19
+81211,Nombre026,Apellido026,Femenino,25,Contabilidad,Asistente,indefinido,32860.57,1270.49,28,Costa Rica,Ciudad_18,15,contrato_temporal,empleado81211@empresa.com,+502 79941466,2023-06-01,2023-11-14,2.53
+78723,Nombre027,Apellido027,Femenino,44,Marketing,Especialista,medio_tiempo,7871.57,6520.14,13,México,Ciudad_10,30,activo,empleado78723@empresa.com,+502 58469365,2013-02-11,2019-02-22,3.27
+74738,Nombre028,Apellido028,Masculino,35,Legal,Coordinador,medio_tiempo,26458.67,14232.35,10,Panamá,Ciudad_20,24,vacaciones,empleado74738@empresa.com,+502 69085720,2021-02-13,2024-06-13,4.01
+27589,Nombre029,Apellido029,Femenino,61,Gerencia,Gerente,indefinido,27192.11,14468.62,30,Costa Rica,Ciudad_11,18,incapacidad,empleado27589@empresa.com,+502 87293208,2013-01-20,2019-10-17,8.04
+76088,Nombre030,Apellido030,Femenino,40,Recursos Humanos,Técnico,medio_tiempo,48601.48,8184.44,21,El Salvador,Ciudad_18,1,incapacidad,empleado76088@empresa.com,+502 38138531,2016-04-15,2020-09-10,4.95
+71344,Nombre031,Apellido031,Femenino,38,Tecnología,Asistente,medio_tiempo,22456.49,2312.15,13,Belice,Ciudad_13,4,incapacidad,empleado71344@empresa.com,+502 90253323,2011-07-21,2020-09-22,5.31
+45761,Nombre032,Apellido032,Masculino,45,Logística,Consultor,tiempo_completo,11421.45,3723.46,21,Costa Rica,Ciudad_12,10,contrato_temporal,empleado45761@empresa.com,+502 15945401,2021-05-13,2023-09-16,6.07
+35272,Nombre033,Apellido033,Femenino,61,Operaciones,Coordinador,tiempo_completo,10592.71,3330.02,23,Panamá,Ciudad_17,35,contrato_temporal,empleado35272@empresa.com,+502 87206788,2018-12-18,2024-05-20,2.99
+24764,Nombre034,Apellido034,Masculino,43,Logística,Analista,indefinido,11050.3,6239.63,30,El Salvador,Ciudad_3,7,de_baja,empleado24764@empresa.com,+502 56751880,2020-05-21,2024-03-12,3.81
+53343,Nombre035,Apellido035,Femenino,49,Logística,Especialista,tiempo_completo,36738.78,10451.45,10,Belice,Ciudad_3,19,activo,empleado53343@empresa.com,+502 25446483,2014-08-22,2020-06-25,1.2
+31298,Nombre036,Apellido036,Masculino,41,Auditoría,Jefe de Área,medio_tiempo,28486.2,6395.54,14,Panamá,Ciudad_8,25,de_baja,empleado31298@empresa.com,+502 35016429,2012-06-14,2016-02-20,6.76
+70150,Nombre037,Apellido037,Masculino,47,Legal,Técnico,indefinido,32940.36,10571.03,6,El Salvador,Ciudad_9,4,contrato_temporal,empleado70150@empresa.com,+502 23656928,2010-08-28,2024-06-05,8.2
+94972,Nombre038,Apellido038,Masculino,54,Legal,Coordinador,por_proyecto,54644.01,7342.26,30,México,Ciudad_11,38,incapacidad,empleado94972@empresa.com,+502 92048427,2018-03-16,2021-11-10,4.53
+43720,Nombre039,Apellido039,Masculino,27,Marketing,Técnico,tiempo_completo,54752.48,4697.79,7,Honduras,Ciudad_10,7,de_baja,empleado43720@empresa.com,+502 60104292,2017-11-23,2023-01-11,7.24
+34405,Nombre040,Apellido040,Masculino,52,Gerencia,Supervisor,indefinido,17303.03,9532.52,22,El Salvador,Ciudad_6,35,de_baja,empleado34405@empresa.com,+502 75718640,2019-05-20,2022-09-22,3.6
+11846,Nombre041,Apellido041,Masculino,31,Logística,Analista,indefinido,13513.17,12228.24,30,Honduras,Ciudad_18,32,incapacidad,empleado11846@empresa.com,+502 64913082,2020-02-12,2023-08-03,7.16
+54185,Nombre042,Apellido042,Masculino,46,Recursos Humanos,Técnico,tiempo_completo,64282.83,3307.94,1,Panamá,Ciudad_9,14,contrato_temporal,empleado54185@empresa.com,+502 48744673,2019-12-16,2022-09-11,2.51
+48669,Nombre043,Apellido043,Masculino,49,Gerencia,Coordinador,por_proyecto,62683.7,12349.24,11,Costa Rica,Ciudad_18,2,incapacidad,empleado48669@empresa.com,+502 83330295,2021-02-09,2024-03-10,2.97
+84420,Nombre044,Apellido044,Masculino,47,Legal,Asistente,por_proyecto,69389.37,1304.75,27,Guatemala,Ciudad_4,15,de_baja,empleado84420@empresa.com,+502 88909809,2015-07-21,2018-11-21,7.2
+98395,Nombre045,Apellido045,Masculino,65,Ventas,Gerente,tiempo_completo,46895.72,7984.21,19,Costa Rica,Ciudad_18,10,vacaciones,empleado98395@empresa.com,+502 49276764,2019-08-09,2020-07-13,3.6
+35318,Nombre046,Apellido046,Masculino,37,Operaciones,Analista,por_proyecto,69762.66,1903.32,27,Belice,Ciudad_5,15,de_baja,empleado35318@empresa.com,+502 53231088,2021-07-16,2022-01-27,8.46
+33002,Nombre047,Apellido047,Femenino,63,Operaciones,Supervisor,indefinido,8814.75,11918.98,24,El Salvador,Ciudad_3,25,contrato_temporal,empleado33002@empresa.com,+502 47342819,2020-12-23,2021-10-10,7.25
+90079,Nombre048,Apellido048,Masculino,43,Recursos Humanos,Especialista,por_proyecto,68458.18,11935.17,12,El Salvador,Ciudad_7,27,de_baja,empleado90079@empresa.com,+502 76399516,2020-12-12,2022-10-13,3.42
+93719,Nombre049,Apellido049,Masculino,38,Gerencia,Especialista,por_proyecto,71849.91,11433.81,1,Honduras,Ciudad_4,40,incapacidad,empleado93719@empresa.com,+502 12185246,2022-04-11,2023-11-23,2.12
+63148,Nombre050,Apellido050,Femenino,30,Ventas,Jefe de Área,por_proyecto,15241.26,13990.88,8,El Salvador,Ciudad_3,23,vacaciones,empleado63148@empresa.com,+502 21062296,2020-03-28,2020-03-29,4.35
+66059,Nombre051,Apellido051,Femenino,61,Ventas,Supervisor,tiempo_completo,57184.75,16.29,15,México,Ciudad_3,8,contrato_temporal,empleado66059@empresa.com,+502 40358823,2011-03-01,2020-01-19,5.67
+77538,Nombre052,Apellido052,Masculino,48,Operaciones,Jefe de Área,indefinido,8453.78,5746.05,23,Guatemala,Ciudad_4,6,vacaciones,empleado77538@empresa.com,+502 59333294,2010-03-08,2017-11-20,8.93
+52982,Nombre053,Apellido053,Masculino,28,Auditoría,Técnico,tiempo_completo,49994.58,2461.75,11,El Salvador,Ciudad_7,40,de_baja,empleado52982@empresa.com,+502 65258766,2012-12-26,2016-03-10,6.54
+21368,Nombre054,Apellido054,Masculino,48,Tecnología,Coordinador,indefinido,30068.24,6440.83,25,Belice,Ciudad_5,15,vacaciones,empleado21368@empresa.com,+502 96519508,2014-11-15,2015-11-05,1.76
+62538,Nombre055,Apellido055,Femenino,55,Contabilidad,Asistente,medio_tiempo,42866.68,7642.84,23,Costa Rica,Ciudad_13,18,activo,empleado62538@empresa.com,+502 42123815,2023-06-17,2024-06-20,5.45
+97720,Nombre056,Apellido056,Masculino,27,Logística,Director,medio_tiempo,32786.55,12584.6,13,México,Ciudad_12,34,de_baja,empleado97720@empresa.com,+502 73218512,2021-03-16,2021-08-08,9.59
+22502,Nombre057,Apellido057,Masculino,24,Marketing,Gerente,tiempo_completo,74038.61,14230.2,12,Guatemala,Ciudad_17,18,contrato_temporal,empleado22502@empresa.com,+502 65758338,2023-03-05,2023-04-08,4.81
+34219,Nombre058,Apellido058,Masculino,45,Marketing,Coordinador,por_proyecto,9084.66,13813.87,25,Guatemala,Ciudad_5,34,vacaciones,empleado34219@empresa.com,+502 62443094,2022-01-13,2023-07-17,6.28
+28430,Nombre059,Apellido059,Femenino,61,Ventas,Analista,medio_tiempo,9638.39,6517.25,14,Panamá,Ciudad_20,38,activo,empleado28430@empresa.com,+502 51512209,2011-06-26,2018-06-09,6.99
+72580,Nombre060,Apellido060,Masculino,62,Tecnología,Analista,medio_tiempo,41223.8,5200.58,16,Panamá,Ciudad_9,10,vacaciones,empleado72580@empresa.com,+502 27036337,2013-12-09,2015-04-12,7.75
+52415,Nombre061,Apellido061,Femenino,37,Operaciones,Asistente,tiempo_completo,23247.12,14625.76,20,Panamá,Ciudad_3,31,incapacidad,empleado52415@empresa.com,+502 78555983,2012-08-25,2013-04-22,4.24
+42512,Nombre062,Apellido062,Femenino,51,Tecnología,Asistente,tiempo_completo,71858.67,10111.81,3,Belice,Ciudad_8,32,activo,empleado42512@empresa.com,+502 15910667,2022-09-18,2023-03-07,8.73
+10895,Nombre063,Apellido063,Femenino,20,Operaciones,Jefe de Área,medio_tiempo,74699.33,12862.28,17,México,Ciudad_14,14,vacaciones,empleado10895@empresa.com,+502 43321320,2011-01-12,2021-08-11,4.75
+44181,Nombre064,Apellido064,Masculino,40,Auditoría,Analista,medio_tiempo,20185.25,7736.61,1,Honduras,Ciudad_13,4,incapacidad,empleado44181@empresa.com,+502 47890586,2011-10-01,2020-02-10,7.96
+60275,Nombre065,Apellido065,Femenino,39,Contabilidad,Director,medio_tiempo,25452.82,11767.61,23,Honduras,Ciudad_20,15,incapacidad,empleado60275@empresa.com,+502 59428849,2011-12-09,2024-05-04,6.33
+40870,Nombre066,Apellido066,Masculino,51,Tecnología,Analista,indefinido,4841.09,8123.18,20,Belice,Ciudad_1,21,activo,empleado40870@empresa.com,+502 98221829,2014-05-20,2022-08-06,4.39
+68554,Nombre067,Apellido067,Masculino,39,Operaciones,Especialista,tiempo_completo,77887.06,2135.6,8,Guatemala,Ciudad_3,2,de_baja,empleado68554@empresa.com,+502 79760901,2014-08-08,2020-07-17,4.72
+44995,Nombre068,Apellido068,Masculino,43,Operaciones,Coordinador,tiempo_completo,36493.68,14463.27,7,El Salvador,Ciudad_10,16,vacaciones,empleado44995@empresa.com,+502 62741214,2011-11-27,2014-01-17,7.31
+53204,Nombre069,Apellido069,Masculino,40,Recursos Humanos,Gerente,medio_tiempo,63055.15,8770.62,4,Honduras,Ciudad_4,10,incapacidad,empleado53204@empresa.com,+502 72552858,2020-02-26,2021-09-04,3.83
+49576,Nombre070,Apellido070,Femenino,27,Marketing,Especialista,por_proyecto,68641.13,1356.31,25,Costa Rica,Ciudad_10,38,activo,empleado49576@empresa.com,+502 38859601,2018-01-14,2020-05-13,8.52
+86344,Nombre071,Apellido071,Femenino,40,Operaciones,Consultor,tiempo_completo,55143.12,3902.5,5,México,Ciudad_1,25,incapacidad,empleado86344@empresa.com,+502 84618850,2012-01-18,2017-08-12,7.73
+85088,Nombre072,Apellido072,Masculino,35,Recursos Humanos,Analista,tiempo_completo,66938.67,14738.51,4,Guatemala,Ciudad_7,25,vacaciones,empleado85088@empresa.com,+502 94597104,2020-05-13,2020-12-07,9.44
+11498,Nombre073,Apellido073,Masculino,25,Contabilidad,Coordinador,medio_tiempo,72492.2,6651.47,4,Costa Rica,Ciudad_3,21,activo,empleado11498@empresa.com,+502 15730602,2023-02-23,2023-07-05,9.48
+44282,Nombre074,Apellido074,Femenino,23,Legal,Analista,indefinido,55607.39,2592.11,6,México,Ciudad_6,17,vacaciones,empleado44282@empresa.com,+502 69862640,2022-11-15,2024-02-01,8.95
+95679,Nombre075,Apellido075,Masculino,22,Marketing,Especialista,indefinido,70973.95,7185.46,2,Costa Rica,Ciudad_9,24,de_baja,empleado95679@empresa.com,+502 66268745,2023-11-21,2024-04-26,2.8
+57127,Nombre076,Apellido076,Masculino,53,Operaciones,Director,indefinido,44927.87,7270.19,29,México,Ciudad_19,32,vacaciones,empleado57127@empresa.com,+502 62127652,2022-03-12,2024-06-02,3.43
+40972,Nombre077,Apellido077,Masculino,21,Marketing,Analista,indefinido,43766.29,11502.63,7,Honduras,Ciudad_6,6,de_baja,empleado40972@empresa.com,+502 98162850,2023-05-24,2023-09-13,3.17
+18142,Nombre078,Apellido078,Femenino,54,Logística,Jefe de Área,medio_tiempo,21214.44,4770.07,23,Belice,Ciudad_12,37,activo,empleado18142@empresa.com,+502 57201978,2011-04-04,2016-03-05,9.53
+97528,Nombre079,Apellido079,Femenino,56,Auditoría,Asistente,medio_tiempo,40763.6,1353.86,7,México,Ciudad_20,14,activo,empleado97528@empresa.com,+502 80658723,2022-08-18,2023-02-26,5.3
+25495,Nombre080,Apellido080,Masculino,41,Logística,Jefe de Área,por_proyecto,7585.81,2215.68,22,Costa Rica,Ciudad_5,7,contrato_temporal,empleado25495@empresa.com,+502 58974686,2014-07-09,2023-07-25,9.65
+71000,Nombre081,Apellido081,Femenino,43,Marketing,Director,medio_tiempo,78141.27,10985.28,13,Panamá,Ciudad_16,20,de_baja,empleado71000@empresa.com,+502 85427317,2018-11-15,2020-01-02,7.24
+50213,Nombre082,Apellido082,Masculino,59,Operaciones,Asistente,por_proyecto,12805.82,10932.46,30,Belice,Ciudad_19,25,contrato_temporal,empleado50213@empresa.com,+502 14346338,2018-01-02,2020-07-04,2.64
+30934,Nombre083,Apellido083,Masculino,40,Legal,Jefe de Área,por_proyecto,60391.44,3569.94,10,Belice,Ciudad_6,40,activo,empleado30934@empresa.com,+502 99929175,2023-09-18,2024-01-09,6.75
+63138,Nombre084,Apellido084,Masculino,41,Ventas,Coordinador,por_proyecto,22762.66,1620.52,0,El Salvador,Ciudad_2,24,incapacidad,empleado63138@empresa.com,+502 66324902,2010-04-04,2016-03-15,9.72
+99925,Nombre085,Apellido085,Femenino,46,Recursos Humanos,Especialista,medio_tiempo,15524.55,1105.64,27,El Salvador,Ciudad_2,18,activo,empleado99925@empresa.com,+502 52777459,2018-06-30,2022-06-07,3.35
+75866,Nombre086,Apellido086,Femenino,26,Tecnología,Coordinador,tiempo_completo,29022.19,14779.14,28,Guatemala,Ciudad_16,1,incapacidad,empleado75866@empresa.com,+502 97729428,2017-09-01,2019-07-29,2.48
+50760,Nombre087,Apellido087,Femenino,47,Ventas,Gerente,indefinido,56684.15,10830.57,23,México,Ciudad_18,16,vacaciones,empleado50760@empresa.com,+502 49916439,2011-03-15,2013-06-21,3.14
+25389,Nombre088,Apellido088,Femenino,23,Tecnología,Analista,por_proyecto,3293.8,1314.43,26,El Salvador,Ciudad_20,30,de_baja,empleado25389@empresa.com,+502 23017361,2022-10-28,2024-05-12,1.23
+93717,Nombre089,Apellido089,Femenino,30,Recursos Humanos,Asistente,indefinido,39262.72,13423.16,8,Panamá,Ciudad_3,34,incapacidad,empleado93717@empresa.com,+502 34814337,2016-07-18,2017-06-18,4.34
+48671,Nombre090,Apellido090,Masculino,44,Marketing,Especialista,indefinido,23281.86,12556.18,18,Honduras,Ciudad_2,9,activo,empleado48671@empresa.com,+502 21503440,2014-03-09,2019-03-08,7.01
+58174,Nombre091,Apellido091,Masculino,54,Operaciones,Consultor,indefinido,77353.33,10306.02,29,El Salvador,Ciudad_16,36,de_baja,empleado58174@empresa.com,+502 73922841,2023-03-25,2023-07-19,3.69
+90560,Nombre092,Apellido092,Masculino,45,Recursos Humanos,Especialista,medio_tiempo,76077.73,2507.47,6,Belice,Ciudad_7,8,activo,empleado90560@empresa.com,+502 66824417,2010-10-12,2022-01-15,1.71
+38947,Nombre093,Apellido093,Masculino,63,Gerencia,Asistente,por_proyecto,73131.95,13712.61,2,El Salvador,Ciudad_3,24,contrato_temporal,empleado38947@empresa.com,+502 63332084,2014-07-13,2023-10-03,5.97
+38721,Nombre094,Apellido094,Femenino,37,Recursos Humanos,Supervisor,medio_tiempo,14411.38,8819.01,24,Costa Rica,Ciudad_4,6,contrato_temporal,empleado38721@empresa.com,+502 23554707,2020-04-11,2020-05-06,8.07
+27507,Nombre095,Apellido095,Femenino,54,Legal,Técnico,indefinido,5884.86,4131.21,4,Honduras,Ciudad_20,38,incapacidad,empleado27507@empresa.com,+502 15205303,2019-03-21,2020-09-11,4.56
+72676,Nombre096,Apellido096,Femenino,41,Marketing,Director,tiempo_completo,29015.69,11904.78,9,Panamá,Ciudad_9,31,activo,empleado72676@empresa.com,+502 40595926,2015-05-01,2015-11-18,2.21
+30078,Nombre097,Apellido097,Femenino,48,Gerencia,Coordinador,medio_tiempo,37012.18,13701.49,13,Belice,Ciudad_16,33,vacaciones,empleado30078@empresa.com,+502 17543817,2017-03-13,2020-03-20,5.64
+69634,Nombre098,Apellido098,Femenino,30,Tecnología,Consultor,tiempo_completo,16377.78,13127.71,6,Guatemala,Ciudad_2,15,activo,empleado69634@empresa.com,+502 71263503,2016-12-23,2022-08-29,1.46
+89395,Nombre099,Apellido099,Femenino,43,Legal,Consultor,indefinido,51926.56,1858.09,0,Panamá,Ciudad_8,23,incapacidad,empleado89395@empresa.com,+502 89731181,2014-06-20,2017-07-16,5.01
+58971,Nombre100,Apellido100,Femenino,50,Tecnología,Asistente,tiempo_completo,24950.34,5798.49,5,Costa Rica,Ciudad_19,13,de_baja,empleado58971@empresa.com,+502 96889858,2022-05-14,2023-05-07,3.03
+64505,Nombre101,Apellido101,Masculino,33,Contabilidad,Especialista,medio_tiempo,52847.61,9017.13,0,Honduras,Ciudad_8,16,contrato_temporal,empleado64505@empresa.com,+502 50998106,2019-03-09,2022-01-23,7.41
+81989,Nombre102,Apellido102,Femenino,65,Logística,Especialista,por_proyecto,19802.1,4532.18,16,Panamá,Ciudad_20,25,contrato_temporal,empleado81989@empresa.com,+502 23732098,2016-03-05,2020-12-04,1.07
+71712,Nombre103,Apellido103,Femenino,62,Recursos Humanos,Especialista,tiempo_completo,28893.84,4147.25,10,Belice,Ciudad_9,16,vacaciones,empleado71712@empresa.com,+502 35281262,2018-05-24,2021-07-24,2.35
+80453,Nombre104,Apellido104,Femenino,35,Tecnología,Analista,indefinido,79805.12,3891.39,13,Guatemala,Ciudad_13,24,activo,empleado80453@empresa.com,+502 88252116,2023-06-17,2024-01-09,7.37
+97044,Nombre105,Apellido105,Masculino,56,Auditoría,Especialista,por_proyecto,42063.24,12681.29,26,Belice,Ciudad_18,11,vacaciones,empleado97044@empresa.com,+502 23100061,2014-04-05,2018-02-08,5.24
+38627,Nombre106,Apellido106,Femenino,36,Recursos Humanos,Gerente,por_proyecto,20196.25,13071.48,13,Panamá,Ciudad_11,23,vacaciones,empleado38627@empresa.com,+502 88593968,2022-07-16,2023-01-19,3.65
+42435,Nombre107,Apellido107,Masculino,27,Legal,Gerente,tiempo_completo,69797.33,5725.04,9,El Salvador,Ciudad_14,3,de_baja,empleado42435@empresa.com,+502 28436852,2011-03-16,2024-04-16,9.93
+99173,Nombre108,Apellido108,Masculino,41,Logística,Jefe de Área,tiempo_completo,40543.73,9465.49,5,El Salvador,Ciudad_11,40,activo,empleado99173@empresa.com,+502 10632635,2022-10-09,2024-01-20,5.07
+88094,Nombre109,Apellido109,Masculino,33,Legal,Coordinador,medio_tiempo,50314.94,9502.31,12,Belice,Ciudad_14,30,incapacidad,empleado88094@empresa.com,+502 10626681,2013-10-13,2020-03-30,1.34
+20730,Nombre110,Apellido110,Femenino,32,Auditoría,Gerente,tiempo_completo,55109.61,9400.3,7,Panamá,Ciudad_8,22,vacaciones,empleado20730@empresa.com,+502 27304799,2018-05-15,2018-07-11,1.92
+78879,Nombre111,Apellido111,Masculino,52,Contabilidad,Asistente,por_proyecto,38106.33,7804.33,16,Costa Rica,Ciudad_11,27,de_baja,empleado78879@empresa.com,+502 56000822,2016-11-12,2018-09-27,9.97
+68556,Nombre112,Apellido112,Femenino,51,Contabilidad,Gerente,medio_tiempo,58992.0,1968.09,23,Honduras,Ciudad_1,37,contrato_temporal,empleado68556@empresa.com,+502 32680748,2014-03-24,2016-01-28,2.11
+79228,Nombre113,Apellido113,Femenino,65,Auditoría,Técnico,tiempo_completo,48732.15,719.41,3,Panamá,Ciudad_1,3,activo,empleado79228@empresa.com,+502 65938669,2010-11-03,2019-04-03,5.0
+57419,Nombre114,Apellido114,Masculino,27,Ventas,Analista,por_proyecto,35407.1,1514.7,16,Costa Rica,Ciudad_9,39,contrato_temporal,empleado57419@empresa.com,+502 28409776,2015-09-02,2020-12-27,4.77
+20237,Nombre115,Apellido115,Femenino,26,Recursos Humanos,Coordinador,indefinido,18295.79,2996.24,8,Costa Rica,Ciudad_17,12,vacaciones,empleado20237@empresa.com,+502 64996550,2023-11-09,2023-12-09,3.66

@@ -1,0 +1,111 @@
+id_estudiante,nombre,apellido,carrera,universidad,modalidad,semestre_actual,creditos_aprobados,creditos_pendientes,promedio_general,estado,tipo_beca,pensum,fecha_inscripcion,fecha_graduacion_esperada,pago_mensual,deuda_acumulada,id_asesor,cursos_aprobados,cursos_reprobados,idiomas,correo_institucional
+851114,Estudiante001,Apellido001,Comunicación,UGAP,semi_presencial,4,77,163,70.23,egresado,mérito,2021,2020-08-07,2024-08-01,7608.42,46390.56,248,7,0,Español,est851114@universidad.edu.gt
+586028,Estudiante002,Apellido002,Comunicación,URL,semi_presencial,10,193,47,89.98,activo,deportiva,2022,2023-03-04,2028-03-01,3040.13,5615.78,212,36,4,Español|Inglés,est586028@universidad.edu.gt
+906013,Estudiante003,Apellido003,Administración de Empresas,UGAP,intensivo,6,114,126,66.32,egresado,completa,2022,2021-10-26,2027-10-01,1963.62,26321.69,301,22,2,Inglés|Español,est906013@universidad.edu.gt
+926897,Estudiante004,Apellido004,Contaduría,USAM,intensivo,3,49,191,80.16,suspendido,completa,2020,2020-09-26,2024-09-01,7313.35,18053.24,276,31,10,Italiano,est926897@universidad.edu.gt
+268815,Estudiante005,Apellido005,Medicina,UVG,intensivo,5,89,151,93.72,graduado,ninguna,2022,2015-12-25,2019-12-01,5958.9,22211.02,144,19,14,Alemán|Francés,est268815@universidad.edu.gt
+397503,Estudiante006,Apellido006,Contaduría,UNIS,intensivo,2,36,204,73.73,graduado,ninguna,2021,2020-11-21,2025-11-01,995.87,48004.76,463,13,9,Español|Italiano,est397503@universidad.edu.gt
+680115,Estudiante007,Apellido007,Ingeniería Civil,UGAP,intensivo,8,145,95,59.96,graduado,completa,2018,2019-04-13,2024-04-01,4654.0,2111.65,178,48,4,Portugués|Francés,est680115@universidad.edu.gt
+291549,Estudiante008,Apellido008,Administración de Empresas,UNIS,intensivo,4,67,173,56.21,activo,ninguna,2023,2022-06-20,2027-06-01,3628.68,24594.33,285,19,15,Italiano|Inglés|Español,est291549@universidad.edu.gt
+284064,Estudiante009,Apellido009,Comunicación,UDEP,presencial,8,148,92,93.42,suspendido,parcial,2022,2022-01-16,2028-01-01,4070.31,34712.25,129,30,13,Francés,est284064@universidad.edu.gt
+609660,Estudiante010,Apellido010,Ingeniería en Sistemas,UNIS,semi_presencial,2,37,203,93.92,intercambio,completa,2022,2016-07-08,2021-07-01,1724.82,13633.52,199,20,14,Italiano|Francés,est609660@universidad.edu.gt
+387497,Estudiante011,Apellido011,Administración de Empresas,UGAP,semi_presencial,10,196,44,88.23,graduado,completa,2019,2021-09-18,2025-09-01,4577.84,43622.16,365,40,5,Francés|Italiano|Portugués,est387497@universidad.edu.gt
+502380,Estudiante012,Apellido012,Enfermería,UGAP,presencial,4,72,168,70.6,baja_voluntaria,deportiva,2018,2016-10-29,2020-10-01,2134.07,25169.14,159,23,15,Portugués,est502380@universidad.edu.gt
+280685,Estudiante013,Apellido013,Psicología,USAC,presencial,11,209,31,73.98,graduado,parcial,2023,2018-06-30,2024-06-01,3219.26,40851.94,172,8,0,Portugués|Francés|Inglés,est280685@universidad.edu.gt
+314677,Estudiante014,Apellido014,Ingeniería en Sistemas,UCE,intensivo,9,176,64,56.27,activo,parcial,2018,2016-06-17,2020-06-01,3686.04,38151.18,116,14,9,Español,est314677@universidad.edu.gt
+372769,Estudiante015,Apellido015,Enfermería,UFM,virtual,11,203,37,73.45,graduado,mérito,2018,2017-11-02,2021-11-01,996.86,33379.32,146,42,1,Español,est372769@universidad.edu.gt
+489346,Estudiante016,Apellido016,Administración de Empresas,UDEP,presencial,2,37,203,97.44,intercambio,parcial,2023,2018-11-25,2023-11-01,1704.18,25031.72,198,54,8,Portugués|Inglés|Español,est489346@universidad.edu.gt
+317466,Estudiante017,Apellido017,Medicina,UCE,presencial,4,72,168,98.68,graduado,mérito,2021,2016-02-09,2020-02-01,7403.58,42564.84,317,10,0,Francés|Portugués,est317466@universidad.edu.gt
+930943,Estudiante018,Apellido018,Arquitectura,UNIS,presencial,3,54,186,70.38,activo,mérito,2021,2023-07-16,2028-07-01,1427.12,5515.81,159,32,7,Alemán,est930943@universidad.edu.gt
+355141,Estudiante019,Apellido019,Derecho,URL,intensivo,5,98,142,80.02,egresado,mérito,2019,2018-07-01,2024-07-01,7821.34,22197.79,106,18,14,Alemán|Francés|Italiano,est355141@universidad.edu.gt
+720438,Estudiante020,Apellido020,Administración de Empresas,UMG,presencial,9,172,68,69.82,suspendido,parcial,2020,2020-11-10,2026-11-01,5573.89,5960.89,202,31,3,Alemán|Portugués,est720438@universidad.edu.gt
+357808,Estudiante021,Apellido021,Arquitectura,UCE,intensivo,8,152,88,56.14,baja_voluntaria,ninguna,2020,2019-10-06,2025-10-01,4243.33,38240.85,175,54,12,Portugués|Francés|Alemán,est357808@universidad.edu.gt
+414178,Estudiante022,Apellido022,Ingeniería en Sistemas,URL,intensivo,10,196,44,56.11,egresado,completa,2019,2020-06-27,2025-06-01,2231.16,47120.15,295,29,3,Español,est414178@universidad.edu.gt
+745980,Estudiante023,Apellido023,Psicología,UCE,intensivo,8,154,86,57.64,intercambio,mérito,2022,2021-12-22,2027-12-01,1222.5,3825.86,275,43,10,Alemán|Italiano|Inglés,est745980@universidad.edu.gt
+857746,Estudiante024,Apellido024,Ingeniería Civil,UCE,presencial,11,207,33,97.63,activo,parcial,2022,2015-05-10,2020-05-01,7100.94,5956.71,437,55,0,Francés|Alemán,est857746@universidad.edu.gt
+223792,Estudiante025,Apellido025,Enfermería,UCE,intensivo,12,220,20,94.24,baja_voluntaria,ninguna,2019,2016-11-03,2021-11-01,3730.11,15622.98,359,49,9,Alemán|Español,est223792@universidad.edu.gt
+507410,Estudiante026,Apellido026,Ingeniería en Sistemas,UDEP,presencial,1,14,226,74.73,graduado,mérito,2020,2019-03-28,2025-03-01,5573.66,38323.54,479,25,8,Francés|Español,est507410@universidad.edu.gt
+636770,Estudiante027,Apellido027,Derecho,UFM,virtual,8,149,91,69.03,egresado,mérito,2022,2019-10-20,2024-10-01,7939.59,20596.48,143,1,10,Italiano,est636770@universidad.edu.gt
+915551,Estudiante028,Apellido028,Contaduría,UDEP,intensivo,12,233,7,93.45,suspendido,completa,2023,2016-04-13,2021-04-01,1773.34,26920.84,340,44,2,Alemán,est915551@universidad.edu.gt
+767735,Estudiante029,Apellido029,Derecho,USAM,intensivo,8,150,90,68.89,intercambio,mérito,2019,2019-05-18,2024-05-01,4794.04,40416.33,414,1,10,Italiano,est767735@universidad.edu.gt
+338440,Estudiante030,Apellido030,Psicología,UDEP,intensivo,4,76,164,60.09,graduado,ninguna,2023,2022-02-15,2026-02-01,6802.85,26791.7,147,23,13,Francés|Español,est338440@universidad.edu.gt
+696925,Estudiante031,Apellido031,Administración de Empresas,UNIS,semi_presencial,10,183,57,79.59,baja_voluntaria,ninguna,2020,2018-01-24,2022-01-01,4748.21,26553.18,202,54,3,Inglés|Francés,est696925@universidad.edu.gt
+563541,Estudiante032,Apellido032,Comunicación,UMG,intensivo,6,106,134,81.25,graduado,deportiva,2020,2020-01-31,2026-01-01,6225.82,9030.04,426,25,8,Italiano,est563541@universidad.edu.gt
+640538,Estudiante033,Apellido033,Medicina,UNIS,intensivo,7,136,104,96.73,baja_voluntaria,mérito,2018,2023-02-24,2029-02-01,949.11,10032.4,424,51,13,Inglés|Italiano,est640538@universidad.edu.gt
+665420,Estudiante034,Apellido034,Derecho,URL,virtual,3,52,188,63.35,graduado,completa,2019,2018-03-21,2024-03-01,1704.38,34342.75,258,54,13,Alemán,est665420@universidad.edu.gt
+973544,Estudiante035,Apellido035,Medicina,USAC,intensivo,6,118,122,71.1,activo,completa,2018,2015-06-01,2019-06-01,1695.19,6821.53,260,31,13,Francés|Portugués,est973544@universidad.edu.gt
+876000,Estudiante036,Apellido036,Derecho,URL,presencial,8,154,86,95.03,intercambio,ninguna,2022,2019-07-26,2024-07-01,5537.54,44285.97,228,19,2,Italiano|Inglés,est876000@universidad.edu.gt
+222525,Estudiante037,Apellido037,Contaduría,UFM,virtual,7,127,113,61.9,activo,parcial,2019,2016-05-15,2021-05-01,2969.64,29216.31,240,56,2,Italiano|Inglés,est222525@universidad.edu.gt
+505677,Estudiante038,Apellido038,Comunicación,UVG,intensivo,6,112,128,93.14,egresado,parcial,2020,2015-08-18,2020-08-01,4501.02,34980.89,174,26,8,Francés,est505677@universidad.edu.gt
+398244,Estudiante039,Apellido039,Psicología,UGAP,intensivo,5,92,148,91.07,suspendido,mérito,2023,2015-03-28,2021-03-01,7751.04,30290.74,162,30,11,Italiano|Español|Inglés,est398244@universidad.edu.gt
+266007,Estudiante040,Apellido040,Derecho,UNIS,virtual,7,136,104,92.88,graduado,deportiva,2023,2019-05-11,2023-05-01,7323.42,19648.78,262,55,7,Francés|Español,est266007@universidad.edu.gt
+223107,Estudiante041,Apellido041,Arquitectura,UVG,presencial,12,225,15,89.47,graduado,mérito,2022,2018-01-27,2022-01-01,6673.98,47024.77,133,51,13,Italiano|Alemán,est223107@universidad.edu.gt
+443613,Estudiante042,Apellido042,Ingeniería en Sistemas,UVG,virtual,5,90,150,72.66,egresado,mérito,2020,2015-04-23,2019-04-01,5310.3,9186.98,394,26,10,Italiano|Inglés,est443613@universidad.edu.gt
+744861,Estudiante043,Apellido043,Ingeniería Civil,UMG,semi_presencial,2,21,219,62.48,graduado,ninguna,2020,2023-01-01,2029-01-01,6223.72,42348.02,244,7,5,Alemán|Francés|Italiano,est744861@universidad.edu.gt
+875987,Estudiante044,Apellido044,Ingeniería en Sistemas,UGAP,virtual,3,50,190,68.38,activo,deportiva,2019,2019-05-31,2024-05-01,7585.68,44217.07,234,5,13,Español,est875987@universidad.edu.gt
+552192,Estudiante045,Apellido045,Administración de Empresas,USAC,intensivo,9,179,61,52.49,baja_voluntaria,deportiva,2018,2021-12-06,2026-12-01,5002.95,7462.56,214,54,5,Inglés|Portugués,est552192@universidad.edu.gt
+631690,Estudiante046,Apellido046,Derecho,UDEP,virtual,10,182,58,97.3,suspendido,parcial,2021,2023-10-09,2028-10-01,2659.71,24708.41,192,13,6,Alemán,est631690@universidad.edu.gt
+806815,Estudiante047,Apellido047,Administración de Empresas,USAC,intensivo,6,104,136,51.44,graduado,mérito,2023,2017-12-08,2021-12-01,5132.6,45366.41,303,50,4,Portugués|Alemán,est806815@universidad.edu.gt
+559443,Estudiante048,Apellido048,Arquitectura,UFM,intensivo,9,175,65,85.42,suspendido,ninguna,2023,2023-04-04,2029-04-01,2421.69,4763.97,406,13,12,Español,est559443@universidad.edu.gt
+887614,Estudiante049,Apellido049,Enfermería,UMG,semi_presencial,10,181,59,50.27,graduado,ninguna,2021,2020-08-28,2026-08-01,3357.03,48876.19,273,47,1,Francés|Inglés|Español,est887614@universidad.edu.gt
+877433,Estudiante050,Apellido050,Ingeniería Civil,UNIS,semi_presencial,12,224,16,54.48,baja_voluntaria,mérito,2020,2022-12-19,2028-12-01,3746.97,13020.3,413,29,4,Español|Inglés,est877433@universidad.edu.gt
+542157,Estudiante051,Apellido051,Ingeniería Civil,USAC,virtual,11,212,28,75.85,graduado,completa,2019,2019-11-20,2023-11-01,2866.57,49728.25,193,48,8,Portugués,est542157@universidad.edu.gt
+709763,Estudiante052,Apellido052,Arquitectura,UGAP,intensivo,1,9,231,58.18,baja_voluntaria,deportiva,2018,2020-03-28,2025-03-01,1370.18,44758.76,468,30,8,Español|Alemán,est709763@universidad.edu.gt
+822180,Estudiante053,Apellido053,Enfermería,USAC,virtual,12,221,19,67.48,baja_voluntaria,completa,2019,2017-04-14,2022-04-01,1854.91,8414.75,493,9,3,Francés|Portugués|Inglés,est822180@universidad.edu.gt
+898199,Estudiante054,Apellido054,Administración de Empresas,USAM,virtual,7,127,113,94.37,activo,completa,2021,2015-04-17,2020-04-01,5609.84,34031.97,462,43,3,Francés|Portugués,est898199@universidad.edu.gt
+930714,Estudiante055,Apellido055,Enfermería,UCE,semi_presencial,9,168,72,81.42,egresado,ninguna,2019,2018-01-08,2024-01-01,5435.05,16471.35,208,30,14,Italiano,est930714@universidad.edu.gt
+755919,Estudiante056,Apellido056,Psicología,UMG,virtual,12,220,20,66.16,baja_voluntaria,completa,2018,2015-08-16,2021-08-01,1030.43,47595.01,206,3,9,Español|Alemán,est755919@universidad.edu.gt
+775111,Estudiante057,Apellido057,Enfermería,UMG,semi_presencial,3,41,199,64.25,egresado,completa,2020,2023-06-10,2029-06-01,1656.01,14927.33,362,24,12,Italiano|Francés,est775111@universidad.edu.gt
+666885,Estudiante058,Apellido058,Medicina,UVG,intensivo,3,51,189,94.27,activo,completa,2022,2020-05-05,2025-05-01,4722.93,21153.53,274,31,14,Francés|Portugués,est666885@universidad.edu.gt
+680255,Estudiante059,Apellido059,Ingeniería Civil,UVG,presencial,6,118,122,82.38,baja_voluntaria,mérito,2019,2023-01-02,2027-01-01,7480.01,26363.94,165,43,7,Portugués|Español|Francés,est680255@universidad.edu.gt
+518853,Estudiante060,Apellido060,Comunicación,URL,intensivo,9,175,65,92.08,baja_voluntaria,completa,2021,2020-11-12,2025-11-01,2716.11,2386.41,438,57,9,Español,est518853@universidad.edu.gt
+794806,Estudiante061,Apellido061,Medicina,UVG,presencial,10,184,56,67.77,activo,deportiva,2023,2021-07-26,2025-07-01,6264.85,813.43,252,36,8,Italiano|Alemán|Inglés,est794806@universidad.edu.gt
+338364,Estudiante062,Apellido062,Medicina,URL,semi_presencial,5,80,160,87.87,egresado,completa,2021,2020-01-17,2026-01-01,6558.76,17066.72,373,37,14,Inglés,est338364@universidad.edu.gt
+521383,Estudiante063,Apellido063,Psicología,UDEP,semi_presencial,1,4,236,55.83,egresado,deportiva,2020,2016-12-04,2022-12-01,4078.4,34590.31,144,0,12,Italiano|Portugués|Alemán,est521383@universidad.edu.gt
+380079,Estudiante064,Apellido064,Medicina,UFM,intensivo,2,32,208,59.54,egresado,ninguna,2019,2015-03-07,2021-03-01,7778.9,42950.6,144,8,0,Alemán,est380079@universidad.edu.gt
+472637,Estudiante065,Apellido065,Ingeniería Civil,USAC,intensivo,4,77,163,57.41,intercambio,parcial,2019,2019-09-25,2023-09-01,1373.44,45120.77,250,49,14,Italiano|Alemán|Portugués,est472637@universidad.edu.gt
+437798,Estudiante066,Apellido066,Enfermería,UGAP,semi_presencial,8,145,95,52.55,activo,deportiva,2021,2015-02-02,2019-02-01,5228.07,35654.64,348,53,12,Alemán|Portugués,est437798@universidad.edu.gt
+707765,Estudiante067,Apellido067,Ingeniería Civil,URL,intensivo,7,131,109,61.6,intercambio,mérito,2021,2015-09-06,2021-09-01,642.65,28820.17,457,37,15,Español|Francés|Alemán,est707765@universidad.edu.gt
+589967,Estudiante068,Apellido068,Arquitectura,UDEP,intensivo,6,111,129,64.4,graduado,mérito,2023,2017-02-26,2022-02-01,3078.86,11605.16,464,1,5,Portugués,est589967@universidad.edu.gt
+502143,Estudiante069,Apellido069,Medicina,UFM,virtual,5,99,141,89.8,intercambio,deportiva,2018,2023-12-20,2027-12-01,5163.82,14122.86,312,26,11,Español|Alemán|Inglés,est502143@universidad.edu.gt
+249617,Estudiante070,Apellido070,Administración de Empresas,USAM,intensivo,7,126,114,60.47,activo,ninguna,2019,2015-07-12,2019-07-01,3190.9,13040.4,161,19,7,Inglés|Italiano|Español,est249617@universidad.edu.gt
+355544,Estudiante071,Apellido071,Ingeniería en Sistemas,UCE,intensivo,8,143,97,62.89,activo,completa,2022,2018-10-25,2023-10-01,6270.3,38504.74,412,14,15,Francés|Inglés|Español,est355544@universidad.edu.gt
+570274,Estudiante072,Apellido072,Medicina,UNIS,intensivo,11,200,40,91.18,intercambio,deportiva,2023,2015-06-21,2021-06-01,1290.58,31496.31,150,54,3,Francés,est570274@universidad.edu.gt
+498196,Estudiante073,Apellido073,Ingeniería Civil,USAM,semi_presencial,2,39,201,66.73,intercambio,parcial,2018,2016-07-18,2020-07-01,6864.46,21955.42,236,41,11,Español|Inglés,est498196@universidad.edu.gt
+678073,Estudiante074,Apellido074,Contaduría,UVG,intensivo,5,95,145,68.03,baja_voluntaria,ninguna,2023,2022-06-16,2026-06-01,1637.08,37675.36,285,45,13,Inglés|Italiano,est678073@universidad.edu.gt
+374444,Estudiante075,Apellido075,Contaduría,USAC,intensivo,1,7,233,88.51,activo,parcial,2022,2023-01-18,2029-01-01,7577.32,4238.91,129,28,4,Alemán|Inglés,est374444@universidad.edu.gt
+848680,Estudiante076,Apellido076,Psicología,UGAP,virtual,9,161,79,70.97,egresado,deportiva,2021,2022-08-20,2028-08-01,4652.08,15216.15,429,45,9,Francés|Italiano|Español,est848680@universidad.edu.gt
+368600,Estudiante077,Apellido077,Comunicación,USAM,intensivo,3,52,188,84.87,egresado,parcial,2022,2023-10-07,2029-10-01,3533.79,9864.79,376,56,14,Español|Italiano,est368600@universidad.edu.gt
+946389,Estudiante078,Apellido078,Comunicación,UDEP,semi_presencial,4,72,168,75.58,graduado,mérito,2023,2018-07-02,2024-07-01,3055.32,31784.28,316,13,2,Español,est946389@universidad.edu.gt
+761320,Estudiante079,Apellido079,Enfermería,USAC,intensivo,7,129,111,92.08,suspendido,parcial,2023,2017-11-29,2023-11-01,4306.25,6190.65,397,7,1,Español|Alemán|Francés,est761320@universidad.edu.gt
+499102,Estudiante080,Apellido080,Administración de Empresas,USAM,virtual,8,144,96,67.52,suspendido,deportiva,2018,2018-03-11,2024-03-01,6385.92,35742.72,175,45,7,Inglés|Alemán|Italiano,est499102@universidad.edu.gt
+391134,Estudiante081,Apellido081,Comunicación,UVG,intensivo,10,182,58,54.1,suspendido,ninguna,2021,2015-09-12,2020-09-01,7163.82,23812.65,425,27,13,Español|Francés,est391134@universidad.edu.gt
+383877,Estudiante082,Apellido082,Derecho,UCE,intensivo,6,108,132,86.59,activo,parcial,2022,2019-09-04,2023-09-01,1582.6,6356.2,289,28,15,Alemán|Inglés|Español,est383877@universidad.edu.gt
+942508,Estudiante083,Apellido083,Medicina,URL,semi_presencial,12,235,5,80.08,suspendido,mérito,2020,2019-08-01,2023-08-01,1406.5,28588.24,250,60,3,Portugués,est942508@universidad.edu.gt
+926515,Estudiante084,Apellido084,Ingeniería Civil,USAC,presencial,7,124,116,57.11,intercambio,mérito,2018,2021-08-12,2026-08-01,864.88,44712.65,122,1,4,Inglés|Italiano,est926515@universidad.edu.gt
+898724,Estudiante085,Apellido085,Ingeniería Civil,UCE,virtual,6,106,134,78.29,egresado,mérito,2018,2018-10-15,2023-10-01,4064.21,36001.67,419,30,9,Inglés|Italiano|Alemán,est898724@universidad.edu.gt
+360940,Estudiante086,Apellido086,Administración de Empresas,UMG,presencial,9,170,70,69.36,intercambio,mérito,2022,2019-06-08,2024-06-01,4557.46,47903.97,430,39,13,Italiano|Francés,est360940@universidad.edu.gt
+369087,Estudiante087,Apellido087,Comunicación,USAC,presencial,2,31,209,59.62,egresado,ninguna,2019,2021-12-09,2027-12-01,4826.42,2643.72,109,41,2,Portugués|Inglés|Alemán,est369087@universidad.edu.gt
+449461,Estudiante088,Apellido088,Ingeniería Civil,USAC,semi_presencial,4,70,170,62.26,baja_voluntaria,parcial,2021,2022-11-30,2028-11-01,3831.72,40346.05,112,50,6,Francés|Alemán|Español,est449461@universidad.edu.gt
+322596,Estudiante089,Apellido089,Psicología,URL,virtual,12,220,20,69.1,suspendido,deportiva,2023,2016-01-08,2020-01-01,7848.4,27088.96,186,33,10,Inglés|Italiano,est322596@universidad.edu.gt
+243150,Estudiante090,Apellido090,Arquitectura,UNIS,intensivo,1,15,225,59.07,activo,completa,2019,2022-12-31,2026-12-01,2735.18,4937.21,222,39,10,Alemán,est243150@universidad.edu.gt
+532006,Estudiante091,Apellido091,Ingeniería Civil,UGAP,intensivo,10,192,48,74.65,activo,deportiva,2018,2023-06-09,2029-06-01,3387.87,5754.07,308,38,7,Francés,est532006@universidad.edu.gt
+802433,Estudiante092,Apellido092,Ingeniería Civil,URL,virtual,9,162,78,63.46,graduado,mérito,2022,2021-07-28,2027-07-01,1261.32,38148.91,186,14,0,Inglés|Francés|Alemán,est802433@universidad.edu.gt
+332617,Estudiante093,Apellido093,Ingeniería en Sistemas,UCE,semi_presencial,11,200,40,98.07,intercambio,mérito,2023,2021-03-23,2026-03-01,813.44,40632.19,294,15,13,Francés|Inglés|Español,est332617@universidad.edu.gt
+662305,Estudiante094,Apellido094,Contaduría,URL,virtual,5,89,151,79.26,egresado,ninguna,2020,2020-09-21,2025-09-01,841.14,36959.15,321,53,6,Español|Francés|Italiano,est662305@universidad.edu.gt
+473056,Estudiante095,Apellido095,Arquitectura,USAM,virtual,3,53,187,94.2,baja_voluntaria,ninguna,2020,2018-11-04,2024-11-01,2460.2,37634.7,108,39,10,Francés|Inglés,est473056@universidad.edu.gt
+587629,Estudiante096,Apellido096,Contaduría,UGAP,presencial,12,233,7,82.32,egresado,completa,2022,2015-01-09,2021-01-01,4073.97,45072.25,115,44,4,Inglés|Alemán|Portugués,est587629@universidad.edu.gt
+393458,Estudiante097,Apellido097,Ingeniería en Sistemas,URL,intensivo,12,228,12,83.61,suspendido,parcial,2021,2018-12-16,2023-12-01,6706.0,17898.29,104,53,14,Italiano,est393458@universidad.edu.gt
+415120,Estudiante098,Apellido098,Derecho,UCE,semi_presencial,3,56,184,87.92,activo,mérito,2021,2022-08-19,2028-08-01,3183.66,4498.33,460,47,0,Italiano|Francés|Inglés,est415120@universidad.edu.gt
+789810,Estudiante099,Apellido099,Enfermería,UDEP,virtual,10,180,60,50.36,activo,ninguna,2019,2022-02-28,2027-02-01,1332.1,13867.38,481,38,6,Alemán|Inglés|Portugués,est789810@universidad.edu.gt
+941484,Estudiante100,Apellido100,Comunicación,UCE,presencial,1,16,224,96.68,baja_voluntaria,completa,2020,2017-07-22,2023-07-01,5966.74,13716.4,321,8,8,Español|Portugués|Francés,est941484@universidad.edu.gt
+236374,Estudiante101,Apellido101,Derecho,USAC,semi_presencial,11,216,24,56.09,baja_voluntaria,ninguna,2021,2020-10-23,2025-10-01,4216.81,25862.85,261,26,8,Italiano,est236374@universidad.edu.gt
+897883,Estudiante102,Apellido102,Derecho,UMG,semi_presencial,1,1,239,66.74,suspendido,completa,2023,2021-05-31,2025-05-01,7926.98,11281.4,420,25,6,Alemán|Español|Inglés,est897883@universidad.edu.gt
+532339,Estudiante103,Apellido103,Ingeniería Civil,UFM,semi_presencial,2,24,216,71.6,activo,mérito,2022,2015-04-09,2021-04-01,6479.16,46753.04,221,1,15,Inglés|Español,est532339@universidad.edu.gt
+560549,Estudiante104,Apellido104,Contaduría,USAM,presencial,1,18,222,88.2,graduado,completa,2021,2022-01-05,2027-01-01,4842.01,4276.73,128,49,14,Español,est560549@universidad.edu.gt
+355130,Estudiante105,Apellido105,Enfermería,UVG,virtual,4,77,163,53.29,intercambio,ninguna,2018,2022-08-07,2026-08-01,4694.44,14745.84,332,39,13,Alemán|Español,est355130@universidad.edu.gt
+591029,Estudiante106,Apellido106,Comunicación,USAM,virtual,5,98,142,94.0,activo,completa,2018,2021-12-11,2025-12-01,3047.12,46879.24,404,29,13,Alemán,est591029@universidad.edu.gt
+670211,Estudiante107,Apellido107,Ingeniería Civil,UMG,virtual,10,182,58,95.22,graduado,completa,2018,2016-05-31,2022-05-01,4316.74,17769.56,165,4,6,Italiano|Portugués,est670211@universidad.edu.gt
+766091,Estudiante108,Apellido108,Ingeniería Civil,UNIS,semi_presencial,4,79,161,75.66,suspendido,mérito,2018,2022-04-23,2027-04-01,2833.91,44261.1,365,37,13,Inglés,est766091@universidad.edu.gt
+370495,Estudiante109,Apellido109,Derecho,URL,semi_presencial,8,150,90,52.87,graduado,deportiva,2023,2020-09-08,2026-09-01,6940.27,21103.06,454,42,4,Inglés,est370495@universidad.edu.gt
+759565,Estudiante110,Apellido110,Ingeniería Civil,USAC,intensivo,6,119,121,92.6,graduado,completa,2023,2021-05-07,2026-05-01,5120.77,20934.76,214,38,10,Español,est759565@universidad.edu.gt
