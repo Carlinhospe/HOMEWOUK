@@ -1,4 +1,6 @@
 # Árbol B Configurable en Python
+# TAREA6
+## Gerardo Josue Toledo Dondiego | 9490-24-6844 | Seccion B
 
 Implementación de un **Árbol B** con grado configurable, operaciones CRUD completas, carga masiva desde 4 archivos CSV y visualización gráfica mediante Graphviz.
 
